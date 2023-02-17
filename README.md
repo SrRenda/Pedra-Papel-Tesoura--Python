@@ -7,7 +7,7 @@ Apesar de simples, ele envolve bastante os conceitos b&aacute;sicos de programa&
 <br />
 O codigo esta disponibilizado nesse relat&oacute;rio do Git!<br />
 <br />
-Enfim, esse foi o meu Self-Challenge e estou muito feliz e conseguir realizar essa conquista, que apesar de simples marca s&oacute; o comecinho da jornada de tudo que esta por vir!<br />
+Enfim, esse foi o meu Self-Challenge e estou muito feliz em conseguir realizar essa conquista, que apesar de simples marca s&oacute; o comecinho da jornada de tudo que esta por vir!<br />
 <br />
 Dicas e sugest&otilde;es podem mandar no meu Linkedin!!<br />
 <br />
